@@ -567,3 +567,28 @@ footer {
     padding: 0 0 0 10px;
     font-family: Montserrat-SemiBold;
 }
+
+.hrefs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+.hrefs a {
+    padding: 20px;
+    text-decoration: none;
+    color: #fff;
+    outline: none;
+}
+.hrefs h4 {
+    padding: 0 20px;
+    font-family: Montserrat-SemiBold;
+}
+.rs-logo {
+    margin: 0 20px;
+    padding: 10px;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 50%;
+}
